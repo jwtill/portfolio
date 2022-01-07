@@ -18,18 +18,15 @@ a:visited {
   color: blue;
 }
 
-ul li{
-  list-style-type: none;
-  border: 1px solid black;
-  width: 200px;
-  padding: 10px;
-  margin: 10px;
-  background-color: white;
-}
-
 h1 {
   text-align:center;
   color:antiquewhite;
+}
+h3 {
+  color: black;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 0px;
 }
 .header {
   border: 1px solid black;
@@ -44,7 +41,14 @@ h1 {
   /* background-color: red; */
   width: 200px;
   float: left;
-  
+}
+.repos ul li{
+  list-style-type: none;
+  border: 1px solid black;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  background-color: white;
 }
 
 .about {
