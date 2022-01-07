@@ -53,10 +53,10 @@ h3 {
 
 .hello-world {
   display:none;
-  margin-left:200px;
+  
 }
 
-.repos ul li:hover + .hello-world{
+.repos ul li:hover, .hello-world{
   display: inline;
   color: red;
   background-color:white;
