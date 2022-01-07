@@ -51,6 +51,17 @@ h3 {
   background-color: white;
 }
 
+.hello-world {
+  display:none;
+  margin-left:200px;
+}
+
+.repos ul li:hover + .hello-world{
+  display: inline;
+  color: red;
+  background-color:white;
+}
+
 .about {
   color: white;
   width:500px;
