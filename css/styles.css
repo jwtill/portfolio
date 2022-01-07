@@ -83,6 +83,7 @@ span.description {
   border: 1px solid black;
   background-color: wheat;
   color: black;
+  opacity: .91;
 }
 .about p {
   width: 40%;
@@ -95,4 +96,5 @@ span.description {
   border: 1px solid black;
   width: 40%;
   margin: 20px;
+  opacity: 1;
 }
