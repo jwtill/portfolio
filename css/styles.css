@@ -1,12 +1,35 @@
 body {
-  background-image: url ("img/eggz.jpg"); 
+  background-image: url("../img/eggz.jpg");
+  background-position: center;
+  background-size: 100%;
+  background-repeat:no-repeat;
+
+  /* background-color: black; */
 }
 
+ul {
+  float:left;
+  margin-top:0px;
+}
 ul li{
-  text-decoration: none;
-
+  list-style-type: none;
+  border: 1px solid black;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  background-color: white;
 }
 
 h1 {
   text-align:center;
+  color:antiquewhite;
+}
+.header {
+  border: 1px solid black;
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  background-color: wheat;
+  margin-left: 50px;
+
 }
