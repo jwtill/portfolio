@@ -5,6 +5,7 @@ body {
   background-repeat:no-repeat;
   background-color: grey;
   box-sizing: border-box;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 ul {
@@ -13,10 +14,12 @@ ul {
 }
 a:link {
   color: black;
+  text-decoration:none;
 }
 a:visited {
   color: blue;
 }
+
 
 h1 {
   text-align:center;
@@ -50,17 +53,25 @@ h3 {
   margin: 10px;
   background-color: white;
 }
+span.description {
+  color: grey; 
+}
+/* .repos ul li:hover +  span.description{
+  color:red;
+  display:inline;
+} */
 
-.hello-world {
+
+/* .hello-world {
   display:none;
   
 }
 
-.repos ul li:hover, .hello-world{
+.repos ul li:hover + .hello-world{
   display: inline;
   color: red;
   background-color:white;
-}
+} */
 
 .about {
   color: white;
