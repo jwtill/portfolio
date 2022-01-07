@@ -3,14 +3,20 @@ body {
   background-position: center;
   background-size: 100%;
   background-repeat:no-repeat;
-
-  /* background-color: black; */
+  background-color: grey;
 }
 
 ul {
   float:left;
   margin-top:0px;
 }
+a:link {
+  color: black;
+}
+a:visited {
+  color: blue;
+}
+
 ul li{
   list-style-type: none;
   border: 1px solid black;
@@ -31,5 +37,14 @@ h1 {
   margin: 10px;
   background-color: wheat;
   margin-left: 50px;
+}
 
+.about {
+  color: white;
+  width: 10%;
+  position: relative;
+  float: left;
+}
+.about p {
+  float: left;
 }
