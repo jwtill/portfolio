@@ -18,7 +18,7 @@ _A website containing portfolio and experience of Josh Tillinghast_
 ## Setup/Installation Requirements
 
 * _Open index.html page in your favorite browser_
-* _Or simply go to GITHUB page_
+* _Or simply go to [https://jwtill.github.io/portfolio/](https://jwtill.github.io/portfolio/)_
 
 
 ## Known Bugs
