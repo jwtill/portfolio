@@ -17,8 +17,8 @@ _A website containing portfolio and experience of Josh Tillinghast_
 
 ## Setup/Installation Requirements
 
-* _Open index.html page in your favorite browser_
-* _Or simply go to GITHUB page_
+* _Download folder containing project, which includes HTML page, a folder of images called img, styles in the css folder, and a folder called PDF which contains the resume document. Open index.html page in your favorite browser to view the website_
+* _Or simply go to [https://jwtill.github.io/portfolio/](https://jwtill.github.io/portfolio/)_
 
 
 ## Known Bugs
